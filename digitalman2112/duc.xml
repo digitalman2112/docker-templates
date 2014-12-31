@@ -30,7 +30,7 @@
       <Mode>rw</Mode>
     </Volume>	
   </Data>
-  <WebUI>http://[IP]:[PORT:8080]/</WebUI>
+  <WebUI>http://[IP]:[PORT:8080]/cgi-bin/duc.cgi</WebUI>
   <Banner>https://raw.githubusercontent.com/binhex/docker-templates/master/digitalman2112/images/duc-banner.png</Banner>
   <Icon>https://raw.githubusercontent.com/binhex/docker-templates/master/digitalman2112/images/duc-icon.png</Icon>
 </Containers>
