@@ -30,6 +30,7 @@
     </Variable>
   </Environment>    
   <Data>
+    <Volume>
       <HostDir>path for filesystem to index</HostDir>
       <ContainerDir>/data</ContainerDir>
       <Mode>rw</Mode>
