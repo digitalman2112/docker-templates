@@ -23,11 +23,6 @@
       </Port>
     </Publish>
   </Networking>
-  <Environment>
-    <Variable>
-      <Name></Name>
-      <Value></Value>
-    </Variable>
   </Environment>    
   <Data>
     <Volume>
