@@ -22,8 +22,7 @@
         <Protocol>tcp</Protocol>
       </Port>
     </Publish>
-  </Networking>
-  </Environment>    
+  </Networking>   
   <Data>
     <Volume>
       <HostDir>path for filesystem to index</HostDir>
