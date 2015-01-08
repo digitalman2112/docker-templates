@@ -31,6 +31,6 @@
     </Volume>	
   </Data>
   <WebUI>http://[IP]:[PORT:2112]</WebUI>
-  <Banner>http://imgur.com/8pZ36wP</Banner>
-  <Icon>http://imgur.com/uTz1RGO</Icon>
+  <Banner>http://imgur.com/8pZ36wP.png</Banner>
+  <Icon>http://imgur.com/uTz1RGO.png</Icon>
 </Containers>
