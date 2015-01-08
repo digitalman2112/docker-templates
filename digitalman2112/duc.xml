@@ -26,6 +26,12 @@
       </Port>
     </Publish>
   </Networking>   
+<Environment>
+    <Variable>
+      <Name>DUC_CGI_OPTIONS</Name>
+      <Value>-l -i --maxlevels=5 --pixels=1000</Value>
+    </Variable>
+  </Environment>    
   <Data>
     <Volume>
       <HostDir>path for filesystem to index</HostDir>
