@@ -3,10 +3,10 @@
   <Name>DUC</Name>
   <Description>
 	[b][u][span style='color: #E80000;']Description[/span][/u][/b][br]
-    Duc is a small library and a collection of tools for inspecting and visualizing disk usage.[br][br]
+    Duc is a small library and a collection of tools for inspecting and visualizing disk usage (and now contains duplicate file matching).[br][br]
     Duc maintains a database of accumulated sizes of directories of your file system, and allows you to query this database with some tools, or create fancy graphs showing you where your bytes are.[br][br]
     [b][u][span style='color: #E80000;']Configuration[/span][/u][/b][br]
-    [b]/data[/b] This path is used to index your filesystem - strongly suggest READ ONLY[br]	
+    [b]/data[/b] This path is used to index your filesystem - strongly suggest READ ONLY[br][br]	
     [b][u][span style='color: #E80000;']Getting Started[/span][/u][/b][br]
     Start by visiting the WebUI (defaults to your http://yourserver:2112) and clicking "reindex" (be patient, it can take a few minutes (or longer) to run the full index.[br][br]
 
