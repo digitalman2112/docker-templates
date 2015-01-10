@@ -29,7 +29,7 @@
 <Environment>
     <Variable>
       <Name>DUC_CGI_OPTIONS</Name>
-      <Value>-l -i --maxlevels=5 --pixels=1000</Value>
+      <Value>-l -i -t --maxlevels=5 --pixels=1000</Value>
     </Variable>
   </Environment>    
   <Data>
